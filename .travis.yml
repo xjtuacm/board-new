@@ -1,0 +1,17 @@
+language: node_js
+node_js: 
+    - "6"
+before_install:
+    - git config --global user.email $GITHUB_EMAIL
+    - git config --global user.name $GITHUB_USERNAME
+    - npm i hexo-cli -g
+    - git clone $THEME_URI themes/$THEME_NAME
+script:
+    - hexo config theme $THEME_NAME
+    - hexo generate
+after_success:
+    - cd public
+    - git init
+    - git add .
+    - git commit -m "Travis Deploy"
+    - git push -f -q $GITHUB_URI master
