@@ -1,4 +1,9 @@
-# XJTUACM队Rating制定标准
+---
+title: XJTUACM队Rating制定标准
+date: 2017-1-1
+categorites:
+- 标准
+---
 
 # 个人
 
