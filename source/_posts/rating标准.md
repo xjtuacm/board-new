@@ -1,10 +1,14 @@
 ---
-title: XJTUACM队Rating制定标准
+title: XJTUACM队Rating计算方案（试运行）
 date: 2017-1-1
 categorites:
-- 标准
+- ACM公告
 author: Ziyang Li
 ---
+
+此为2017年校ACM队Rating计算方案（试运行）。
+
+<!--more-->
 
 # 个人
 
