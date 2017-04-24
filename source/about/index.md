@@ -21,7 +21,7 @@ date: 2017-01-01 17:16:19
 
 # 西安交大ACM时刻表(TBD)
 
-- `五月`，校赛
+- [2017年5月7日](https://www.timeanddate.com/worldclock/fixedtime.html?msg=%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A62017%E5%B9%B4%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B&iso=20170507T0430&p1=%3A&ah=4)，西安交通大学2017年程序设计竞赛
 
 # 历届队员(TBD)
 
