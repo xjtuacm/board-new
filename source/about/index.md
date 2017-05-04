@@ -15,6 +15,8 @@ date: 2017-01-01 17:16:19
 
 ## 现役队伍
 
+- `Wannaflt_Higher(legs_hang_carry_li)`：李子扬，张博航，吴航
+
 - `make big news again`：刘海松，董裕欣，张子杰
 
 ## 名人堂(TBD)
