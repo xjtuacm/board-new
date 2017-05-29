@@ -3,7 +3,7 @@ title: 关于
 date: 2017-01-01 17:16:19
 ---
 
-# 什么是ACM/ICPC(TBD)
+# 什么是ACM/ICPC
 
 ACM/ICPC是一个算法竞赛。
 
@@ -13,7 +13,7 @@ ACM/ICPC是一个算法竞赛。
 
 主要的考察点在于`算法`、`数据结构`、`代码能力`。
 
-# 历任学生负责人(TBD)
+# 历任学生负责人
 
 ## 2016 - 2017 李子扬(TBD)
 
@@ -41,7 +41,6 @@ ACM/ICPC是一个算法竞赛。
 # 现役队伍(TBD)
 
 - `Wannaflt_Higher(legs_hang_carry_li)`：李子扬，张博航，吴航
-
 - `make big news again`：刘海松，董裕欣，张子杰
 
 # 西安交大ACM时刻表(TBD)
@@ -53,10 +52,10 @@ ACM/ICPC是一个算法竞赛。
 
 | 毕业年       | 姓名           |个人主页                                   | 去向               |
 |:------------:|:--------------:|:---------------------------------------:|:-----------------:|
-| 2018         | 陈景琦         | [博客](http://192217.space)              | -                 |
 | 2019         | 王袤广         | [博客](http://xjtumg.me)                 | -                 |
+| 2018         | 陈景琦         | [博客](http://192217.space)              | -                 |
 | 2016         | 张伟华         | [博客](http://www.plypy.com)             |  Google 悉尼       |
-| 2016         | 夏雨民         | [主页](https://irl.cs.ucla.edu/~yumin/)  |  UCLA 洛杉矶       |
+| 2016         | 夏雨民         | [主页](https://irl.cs.ucla.edu/~yumin/)  |  UCLA       |
 | 2016         | 解铮           | [主页](http://lamda.nju.edu.cn/xiez)     |  南京大学          |
 
 # 西安交大ACM大事记(TBD)
