@@ -54,9 +54,15 @@ ACM/ICPC是一个算法竞赛。
 |:------------:|:--------------:|:---------------------------------------:|:-----------------:|
 | 2019         | 王袤广         | [博客](http://xjtumg.me)                 | -                 |
 | 2018         | 陈景琦         | [博客](http://192217.space)              | -                 |
+|2018|刘倬|[博客](http://www.caesium.space)|-|
+|2018|吴航|[博客](http://www.nike0good.com)|-|
+|2018|陈铮|[博客](http://www.zccz14.com)|-|
+|2018|李子扬|[博客](http://liziyang96.com)|-|
 | 2016         | 张伟华         | [博客](http://www.plypy.com)             |  Google 悉尼       |
 | 2016         | 夏雨民         | [主页](https://irl.cs.ucla.edu/~yumin/)  |  UCLA       |
 | 2016         | 解铮           | [主页](http://lamda.nju.edu.cn/xiez)     |  南京大学          |
+|2015|贝馨竹|-|UCLA|
+|2015|包逸歆|-|香港大学|
 
 # 西安交大ACM大事记(TBD)
 
