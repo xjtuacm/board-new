@@ -60,7 +60,7 @@ ACM/ICPC是一个算法竞赛。
 | 2016         | 夏雨民         | [主页](https://irl.cs.ucla.edu/~yumin/)  |  UCLA       |
 | 2016         | 解铮           | [主页](http://lamda.nju.edu.cn/xiez)     |  南京大学          |
 |2015|贝馨竹|-|UCLA|
-|2015|包逸歆|-|香港大学|
+|2015|包逸歆|[博客](http://blog.csdn.net/ihsin)|香港大学|
 
 # 西安交大ACM大事记(TBD)
 
