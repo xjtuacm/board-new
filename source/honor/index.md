@@ -33,3 +33,4 @@ date: 2017-01-01 17:16:19
 | Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
 |------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
 | ACM-ICPC Asia Guangzhou | Nov 2014    | StRcPy     | 夏雨民 张伟华 解铮          | Silver  | 16th [Standings](https://icpc.baylor.edu/regionals/finder/guangzhou-2014/standings) |
+| ACM-ICPC Asia Shanghai | Dec 2014    | TimeForMiracles     | 候开宇 包逸歆 贝馨竹          | Bronze  | 60th [Standings](https://icpc.baylor.edu/regionals/finder/shanghai-2014/standings) |
