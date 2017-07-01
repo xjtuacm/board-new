@@ -9,5 +9,5 @@ cz: 为什么动态规划叫动态规划呢？
 lzy: 会动，很变态，没规矩，智商划分线
 lzy: 简称，动态规划
 lzy: ![1](https://board.xjtuacm.com/images/note-1-1.jpg)
-syl: ![2](https://board.xjtuacm.com/images/note-1-2.jpg)
-cz: ![2](https://board.xjtuacm.com/images/note-1-2.jpg)
+syl: ![2](https://board.xjtuacm.com/images/note-1-2.gif)
+cz: ![2](https://board.xjtuacm.com/images/note-1-2.gif)
