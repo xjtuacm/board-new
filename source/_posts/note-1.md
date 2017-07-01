@@ -1,5 +1,5 @@
 ---
-titie: 笔记1
+title: 笔记1
 date: 2017-7-1
 categories:
   - Note
