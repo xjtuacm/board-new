@@ -16,3 +16,5 @@ lzy: ![1](https://board.xjtuacm.com/images/note-1-1.jpg)
 syl: ![2](https://board.xjtuacm.com/images/note-1-2.gif)
 
 cz: ![2](https://board.xjtuacm.com/images/note-1-2.gif)
+
+dc: ![3](https://board.xjtuacm.com/images/note-1-3.gif)
