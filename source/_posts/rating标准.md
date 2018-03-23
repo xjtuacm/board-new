@@ -3,6 +3,8 @@ title: XJTUACM队Rating计算方案（试运行）
 date: 2017-1-1
 categorites:
 - ACM公告
+tags:
+- 2017
 ---
 
 此为2017年校ACM队Rating计算方案（试运行）。
