@@ -71,7 +71,7 @@ ACM/ICPC是一个算法竞赛。
 | 2019         | 王袤广         | [博客](http://xjtumg.me)                 | -                 |
 | 2018         | 陈景琦         | [博客](http://192217.space)              |阿里云|
 |2018|刘倬|[博客](http://www.caesium.space)|微软苏州|
-|2018|吴航|[博客](http://www.nike0good.com)|-|
+|2018|吴航|[博客](http://www.nike0good.com)|西安交通大学|
 |2018|陈铮|[博客](http://www.zccz14.com)|依图|
 |2018|李子扬|[博客](http://liziyang.space)|南京大学|
 | 2016         | 张伟华         | [博客](http://www.plypy.com)             |  Google 悉尼       |
@@ -89,7 +89,9 @@ ACM/ICPC是一个算法竞赛。
 
 - 2017年10月29日，在东北大学秦皇岛分校举办的CCPC，`SpeakStudyStaySing`队获得XJTU在CCPC的第一块金牌。
 
-- 2017年11月5日，在浙江理工大学举行的CCPC，`SpeakStudyStaySing`队获得金牌。
+- 2017年11月5日，在浙江理工大学举办的CCPC，`SpeakStudyStaySing`队获得金牌。
+
+- 2017年12月3日，在新疆大学举办的ICPC，`bitset`队获得金牌，并凭此进入2018World Finals。
 
 - 2017年12月17日，在上海大学举行的东亚洲大陆总决赛，`SpeakStudyStaySing`队获得金牌。
 
