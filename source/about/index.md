@@ -72,13 +72,15 @@ ACM/ICPC是一个算法竞赛。
 | 2018         | 陈景琦         | [博客](http://192217.space)              |阿里云|
 |2018|刘倬|[博客](http://www.caesium.space)|微软苏州|
 |2018|吴航|[博客](http://www.nike0good.com)|西安交通大学|
-|2018|陈铮|[博客](http://www.zccz14.com)|依图|
+|2018|陈铮|[个人主页](https://www.linkedin.com/in/zccz14)|上海依图网络科技有限公司|
 |2018|李子扬|[博客](http://liziyang.space)|南京大学|
+|2018|李淳竹|[GitHub](https://github.com/lichunzhu)|读研|
 | 2016         | 张伟华         | [博客](http://www.plypy.com)             |  Google 悉尼       |
 | 2016         | 夏雨民         | [主页](https://irl.cs.ucla.edu/~yumin/)  |  UCLA       |
 | 2016         | 解铮           | [主页](http://lamda.nju.edu.cn/xiez)     |  南京大学          |
 |2015|贝馨竹|-|UCLA|
 |2015|包逸歆|[博客](http://blog.csdn.net/ihsin)|香港大学|
+|2015|王怀远|-|阿里云
 |2014|侯开宇|[博客](http://kyhou.com)|西北大学|
 |2014|陈思|-|USC|
 |2014|龚禹|-|上海交通大学|
