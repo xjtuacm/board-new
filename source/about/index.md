@@ -19,6 +19,15 @@ ACM/ICPC是一个算法竞赛。
 
 ## 2016 - 2017 李子扬
 
+李子扬，2016年至2017年队员。于2016年末开始担任学生负责人，直至2017年末。
+
+完成：
+- 带动XJTU参与到中国ACM发展中
+- 首次并长久完成了XJTUACM的对外交流
+- 举办了第二次校赛
+- 组建校集训队，作为预备队
+- 组织了暑假集训，包括小学期的讲课(讲师同时包括`王袤广、沈俞霖、丁聪、张博航`等)和队内的集训
+
 ## 2015 - 2016 陈景琦
 
 陈景琦，2014年至2016年队员。于2015年末开始担任学生负责人，直至2016年末。
@@ -40,8 +49,15 @@ ACM/ICPC是一个算法竞赛。
 
 # 现役队伍(TBD)
 
-- `Wannaflt_Higher(legs_hang_carry_li)`：李子扬，张博航，吴航
-- `make big news again`：刘海松，董裕欣，张子杰
+- `Setbit`(一队)：丁聪，张博航，刘一凡
+
+# 历年一队
+
+- `peach`(2016)：王袤广，吴航，刘倬
+
+- `SpeakStudyStaySing`(2017)：李子扬，张博航，吴航
+
+- `Setbit`(2018)：丁聪，张博航，刘一凡
 
 # 西安交大ACM时刻表(TBD)
 
@@ -55,9 +71,9 @@ ACM/ICPC是一个算法竞赛。
 | 2019         | 王袤广         | [博客](http://xjtumg.me)                 | -                 |
 | 2018         | 陈景琦         | [博客](http://192217.space)              |阿里云|
 |2018|刘倬|[博客](http://www.caesium.space)|微软苏州|
-|2018|吴航|[博客](http://www.nike0good.com)|-|
+|2018|吴航|[博客](http://www.nike0good.com)|西安交通大学|
 |2018|陈铮|[博客](http://www.zccz14.com)|依图|
-|2018|李子扬|[博客](http://liziyang96.com)|南京大学|
+|2018|李子扬|[博客](http://liziyang.space)|南京大学|
 | 2016         | 张伟华         | [博客](http://www.plypy.com)             |  Google 悉尼       |
 | 2016         | 夏雨民         | [主页](https://irl.cs.ucla.edu/~yumin/)  |  UCLA       |
 | 2016         | 解铮           | [主页](http://lamda.nju.edu.cn/xiez)     |  南京大学          |
@@ -74,5 +90,13 @@ ACM/ICPC是一个算法竞赛。
 # 西安交大ACM大事记(TBD)
 
 - 2016年12月11日，在上海大学举办的中国决赛，`peach`队获得金牌。
+
+- 2017年10月29日，在东北大学秦皇岛分校举办的CCPC，`SpeakStudyStaySing`队获得XJTU在CCPC的第一块金牌。
+
+- 2017年11月5日，在浙江理工大学举办的CCPC，`SpeakStudyStaySing`队获得金牌。
+
+- 2017年12月3日，在新疆大学举办的ICPC，`bitset`队获得金牌，并凭此进入2018World Finals。
+
+- 2017年12月17日，在上海大学举行的东亚洲大陆总决赛，`SpeakStudyStaySing`队获得金牌。
 
 - 2018年4月19日，首次参加World Finals, `bitset`队获得56th。
