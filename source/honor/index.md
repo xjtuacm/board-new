@@ -5,6 +5,10 @@ date: 2017-01-01 17:16:19
 
 # 2018
 
+| Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
+|------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
+| ACM-ICPC World Finals  | Apr 2018    | bitset          | 沈俞霖 丁聪 刘一凡 | None    | 56th [Standings](https://web.archive.org/web/20180424212711/https://icpc.baylor.edu/worldfinals/results) |
+
 # 2017
 
 | Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
