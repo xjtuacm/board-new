@@ -3,7 +3,26 @@ title: 历年获奖情况
 date: 2017-01-01 17:16:19
 ---
 
+# 2018
+
 # 2017
+
+| Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
+|------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
+| ACM-ICPC EC-Final       | Dec 2017    | SpeakStudyStaySing          | 李子扬 吴航 张博航 | Gold    | 18th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2017/standings) |
+| ACM-ICPC EC-Final       | Dec 2017    | bitset                      | 沈俞霖 丁聪 刘一凡 | Silver  | 48th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2017/standings) |
+| ACM-ICPC EC-Final       | Dec 2017    | Justice or Faith            | 张建平 蔡少斐 李南辰| Bronze  | 69th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2017/standings) |
+| ACM-ICPC Asia Shenyang  | Oct 2017    | SpeakStudyStaySing          | 李子扬 吴航 张博航 | Silver   | 33rd [Standings](https://icpc.baylor.edu/regionals/finder/Shenyang-2017/standings) |
+| ACM-ICPC Asia Shenyang  | Oct 2017    | Justice or Faith            | 张建平 蔡少斐 李南辰| Bronze  | 51st [Standings](https://icpc.baylor.edu/regionals/finder/Shenyang-2017/standings) |
+| ACM-ICPC Asia Nanning   | Nov 2017    | Justice or Faith            | 张建平 蔡少斐 李南辰| Silver  | 23rd [Standings](https://icpc.baylor.edu/regionals/finder/AR-Nanning-2017/standings) |
+| ACM-ICPC Asia Nanning   | Nov 2017    | SpeakStudyStaySing          | 李子扬 吴航 张博航 | Bronze   | 58th [Standings](https://icpc.baylor.edu/regionals/finder/AR-Nanning-2017/standings) |
+| ACM-ICPC Asia Nanning   | Nov 2017    | int mian                    | 张子杰 刘海松 董裕欣 | Bronze   | 59th [Standings](https://icpc.baylor.edu/regionals/finder/AR-Nanning-2017/standings) |
+| ACM-ICPC Asia Urumqi    | Dec 2017    | bitset                      | 沈俞霖 丁聪 刘一凡 | Gold  | 6th [Standings](https://icpc.baylor.edu/regionals/finder/Urumqi-2017/standings) |
+| ACM-ICPC Asia Xi'an     | Oct 2017    | bitset                      | 沈俞霖 丁聪 刘一凡 | Silver| 33rd [Standings](https://icpc.baylor.edu/regionals/finder/Asia-Xian-2017/standings) |
+| ACM-ICPC Asia Xi'an     | Oct 2017    | LoseAdream                  | 郑子杰 曾泓泰 袁于星| Bronze| 91st [Standings](https://icpc.baylor.edu/regionals/finder/Asia-Xian-2017/standings) |
+| ACM-ICPC Asia Xi'an     | Oct 2017    | Nuclear Platen AC Automaton | 冯立楷 刘瀚之 郭昊轩| Bronze| 107st [Standings](https://icpc.baylor.edu/regionals/finder/Asia-Xian-2017/standings) |
+| ACM-ICPC Asia Beijing   | Nov 2017    | int mian                    | 张子杰 刘海松 董裕欣 | Silver   | 45th [Standings](https://icpc.baylor.edu/regionals/finder/Beijing-2017/standings) |
+| ACM-ICPC Asia Qingdao   | Nov 2017    | sorry                       | 赵光阳 孙旭菲 吴思矾 | Bronze   | 146th [Standings](https://icpc.baylor.edu/regionals/finder/QingDao-2017/standings) |
 
 # 2016
 
