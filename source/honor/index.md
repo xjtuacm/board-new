@@ -8,6 +8,11 @@ date: 2017-01-01 17:16:19
 | Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
 |------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
 | ACM-ICPC World Finals  | Apr 2018    | bitset          | 沈俞霖 丁聪 刘一凡 | None    | 56th [Standings](https://web.archive.org/web/20180424212711/https://icpc.baylor.edu/worldfinals/results) |
+| ACM-ICPC EC-Final       | Dec 2018    | tfucju         | 丁聪 张博航 刘一凡 | Gold    | 6th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
+| ACM-ICPC EC-Final       | Dec 2018    | XHT Red Sun         | 陈业元 王之坤 刘瀚之 | Silver    | 22nd [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
+| ACM-ICPC EC-Final       | Dec 2018    | csfnb         | 张子杰 蔡少斐 李南辰 | Bronze    | 51st [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
+| ACM-ICPC EC-Final       | Dec 2018    | iron_equals_girl_dress         | 朱泽荧 降伟鹏 刘淼 | Bronze    | 76th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
+| ACM-ICPC EC-Final       | Dec 2018    | Chaos         | 杨炯 甄昊天 齐智 | Bronze    | 106th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
 | ACM-ICPC Asia Jiaozuo   | Nov 2018    | tfucju          | 丁聪 张博航 刘一凡 | Gold    | 3rd [Standings](https://icpc.baylor.edu/regionals/finder/Asia-jiaozuo-2018/standings) |
 | ACM-ICPC Asia Jiaozuo   | Nov 2018    | XHT Red Sun     | 陈业元 王之坤 刘瀚之 | Gold    | 14th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-jiaozuo-2018/standings) |
 | ACM-ICPC Asia Beijing   | Nov 2018    | csfnb           | 张子杰 蔡少斐 李南辰 | Gold    | 6th [Standings]
