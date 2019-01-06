@@ -8,6 +8,23 @@ date: 2017-01-01 17:16:19
 | Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
 |------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
 | ACM-ICPC World Finals  | Apr 2018    | bitset          | 沈俞霖 丁聪 刘一凡 | None    | 56th [Standings](https://web.archive.org/web/20180424212711/https://icpc.baylor.edu/worldfinals/results) |
+| ACM-ICPC Asia Jiaozuo   | Nov 2018    | tfucju          | 丁聪 张博航 刘一凡 | Gold    | 3rd [Standings](https://icpc.baylor.edu/regionals/finder/Asia-jiaozuo-2018/standings) |
+| ACM-ICPC Asia Jiaozuo   | Nov 2018    | XHT Red Sun     | 陈业元 王之坤 刘瀚之 | Gold    | 14th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-jiaozuo-2018/standings) |
+| ACM-ICPC Asia Beijing   | Nov 2018    | csfnb           | 张子杰 蔡少斐 李南辰 | Gold    | 6th [Standings]
+(https://icpc.baylor.edu/regionals/finder/Beijing-2018/standings) |
+| ACM-ICPC Asia Beijing   | Nov 2018    | Chaos           | 杨炯 甄昊天 齐智    | Silver    | 19th [Standings](https://icpc.baylor.edu/regionals/finder/Beijing-2018/standings) |
+| ACM-ICPC Asia Nanjing   | Oct 2018    | csfnb           | 张子杰 蔡少斐 李南辰 | Silver    | 40th [Standings](https://icpc.baylor.edu/regionals/finder/AR-Nannjing-2018/standings) |
+| ACM-ICPC Asia Nanjing   | Oct 2018    | XHT Red Sun     | 陈业元 王之坤 刘瀚之 | Silver    | 64th [Standings](https://icpc.baylor.edu/regionals/finder/AR-Nannjing-2018/standings) |
+| ACM-ICPC Asia Nanjing   | Oct 2018    | Farfetch'd     | 宋哲正 唐宇轩 陈天宇 | Silver    | 82nd [Standings]
+(https://icpc.baylor.edu/regionals/finder/AR-Nannjing-2018/standings) |
+| ACM-ICPC Asia Shenyang  | Oct 2018    | Chaos           | 杨炯 甄昊天 齐智     | Silver    | 21st [Standings](https://icpc.baylor.edu/regionals/finder/Shenyang-2018/standings) |
+| ACM-ICPC Asia Shenyang  | Oct 2018    | tea master      | 张逸朴 唐俪娜 茅添成 | Bronze    | 108th [Standings](https://icpc.baylor.edu/regionals/finder/Shenyang-2018/standings) |
+| ACM-ICPC Asia Qingdao   | Nov 2018    | Farfetch'd     | 宋哲正 唐宇轩 陈天宇 | Silver    | 106th [Standings]
+(https://icpc.baylor.edu/regionals/finder/QingDao-2018/standings) |
+| ACM-ICPC Asia Qingdao   | Nov 2018    | iron_equals_girl_dress  | 朱泽荧 降伟鹏 刘淼 | Bronze    | 195th [Standings]
+(https://icpc.baylor.edu/regionals/finder/QingDao-2018/standings) |
+| ACM-ICPC Asis Hongkong  | Nov 2018    | tfucju                  | 丁聪 张博航 刘一凡 | Sliver    | 12nd [Standings](https://icpc.baylor.edu/regionals/finder/Hong-Kong-City-2018/standings)
+
 
 # 2017
 
