@@ -24,11 +24,22 @@ date: 2017-01-01 17:16:19
 | ICPC沈阳 | 非自然AC               | Unnatural AC          | 朱晨曦 施劲松 康颢   | 银牌（95/575）             |
 | ICPC沈阳 | 美少女特攻队           | beautySPJ             | 赵昱 孙赫 周品良     | 银牌（100/575）            |
 
+# 2020
+
+| Contest | Date | Team | Members | Medal | Rank |
+| ------- | ---- | ---- | ------- | ----- | ---- |
+
 # 2019
 
 | Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
 |------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
 | ICPC World Finals  | Apr 2019    | tfucju         | 丁聪 张博航 刘一凡 | Ranked    | 41st [Standings](https://icpc.global/community/results-2019) |
+| ICPC 西安邀请赛 | May 2019 | Flying Dodo | 丁聪 陈业元 王之坤 | 冠军 | 1st |
+| ICPC 陕西省赛 | Jun 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | 冠军 | 1st |
+| CCPC 哈尔滨站 | Oct 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | 季军 | 3rd |
+| ICPC Asia Nanchang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 15th[Standings](https://icpc.global/regionals/finder/Nanchang-2019/standings) |
+| ICPC Asia Shenyang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 10th[Standings](https://icpc.global/regionals/finder/Shenyang-2019/standings) |
+| ICPC EC Final | Dec 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | ???th |
 
 # 2018
 
