@@ -24,11 +24,17 @@ date: 2017-01-01 17:16:19
 | ICPC沈阳 | 非自然AC               | Unnatural AC          | 朱晨曦 施劲松 康颢   | 银牌（95/575）             |
 | ICPC沈阳 | 美少女特攻队           | beautySPJ             | 赵昱 孙赫 周品良     | 银牌（100/575）            |
 
+# 2019
+
+| Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
+|------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
+| ICPC World Finals  | Apr 2019    | tfucju         | 丁聪 张博航 刘一凡 | Ranked    | 41st [Standings](https://icpc.global/community/results-2019) |
+
 # 2018
 
 | Contest                | Date        | Team        | Members                     | Medal   | Rank                                                                                       |
 |------------------------|-------------|-------------|-----------------------------|---------|--------------------------------------------------------------------------------------------|
-| ACM-ICPC World Finals  | Apr 2018    | bitset          | 沈俞霖 丁聪 刘一凡 | None    | 56th [Standings](https://web.archive.org/web/20180424212711/https://icpc.baylor.edu/worldfinals/results) |
+| ACM-ICPC World Finals  | Apr 2018    | bitset          | 沈俞霖 丁聪 刘一凡 | Ranked    | 56th [Standings](https://icpc.global/community/results-2018) |
 | ACM-ICPC EC-Final       | Dec 2018    | tfucju         | 丁聪 张博航 刘一凡 | Gold    | 6th [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
 | ACM-ICPC EC-Final       | Dec 2018    | XHT Red Sun         | 陈业元 王之坤 刘瀚之 | Silver    | 22nd [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
 | ACM-ICPC EC-Final       | Dec 2018    | csfnb         | 张子杰 蔡少斐 李南辰 | Bronze    | 51st [Standings](https://icpc.baylor.edu/regionals/finder/Asia-EC-League-Final-2018/standings) |
