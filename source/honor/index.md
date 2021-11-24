@@ -51,7 +51,7 @@ date: 2017-01-01 17:16:19
 | ACM-ICPC Asia Shenyang  | Oct 2018    | tea master      | 张逸朴 唐俪娜 茅添成 | Bronze    | 108th [Standings](https://icpc.baylor.edu/regionals/finder/Shenyang-2018/standings) |
 | ACM-ICPC Asia Qingdao   | Nov 2018    | Farfetch'd     | 宋哲正 唐宇轩 陈天宇 | Silver    | 106th [Standings](https://icpc.baylor.edu/regionals/finder/QingDao-2018/standings) |
 | ACM-ICPC Asia Qingdao   | Nov 2018    | iron_equals_girl_dress  | 朱泽荧 降伟鹏 刘淼 | Bronze    | 195th [Standings](https://icpc.baylor.edu/regionals/finder/QingDao-2018/standings) |
-| ACM-ICPC Asis Hong Kong  | Nov 2018    | tfucju                  | 丁聪 张博航 刘一凡 | Silver    | 12nd [Standings](https://icpc.baylor.edu/regionals/finder/Hong-Kong-City-2018/standings) |
+| ACM-ICPC Asia Hong Kong  | Nov 2018    | tfucju                  | 丁聪 张博航 刘一凡 | Silver    | 12nd [Standings](https://icpc.baylor.edu/regionals/finder/Hong-Kong-City-2018/standings) |
 
 
 # 2017
