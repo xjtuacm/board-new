@@ -28,6 +28,7 @@ date: 2017-01-01 17:16:19
 
 | Contest | Date | Team | Members | Medal | Rank |
 | ------- | ---- | ---- | ------- | ----- | ---- |
+| CCPC秦皇岛 | Oct 2020 | 速八酒痞 | 孙路 张骏扬 王彦博 | 银牌 | 58th/100 [Standings](https://ccpc.io/post/221) |
 
 # 2019
 
@@ -37,9 +38,10 @@ date: 2017-01-01 17:16:19
 | ICPC 西安邀请赛 | May 2019 | Flying Dodo | 丁聪 陈业元 王之坤 | 冠军 | 1st |
 | ICPC 陕西省赛 | Jun 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | 冠军 | 1st |
 | CCPC 哈尔滨站 | Oct 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | 季军 | 3rd |
-| ICPC Asia Nanchang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 15th[Standings](https://icpc.global/regionals/finder/Nanchang-2019/standings) |
-| ICPC Asia Shenyang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 10th[Standings](https://icpc.global/regionals/finder/Shenyang-2019/standings) |
+| ICPC Asia Nanchang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 15th [Standings](https://icpc.global/regionals/finder/Nanchang-2019/standings) |
+| ICPC Asia Shenyang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 10th [Standings](https://icpc.global/regionals/finder/Shenyang-2019/standings) |
 | ICPC EC Final | Dec 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | ???th |
+| ICPC Asia Hong Kong Regional | Nov 2019  | rbqrbq        | 张骏扬 孙路 王彦博   | Silver        | 9th/36 [Standings](https://icpc.global/regionals/finder/Hong-Kong-City-2019/standings) |
 
 # 2018
 
