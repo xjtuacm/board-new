@@ -40,6 +40,7 @@ date: 2017-01-01 17:16:19
 | CCPC 哈尔滨站 | Oct 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | 季军 | 3rd |
 | ICPC Asia Nanchang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 15th [Standings](https://icpc.global/regionals/finder/Nanchang-2019/standings) |
 | ICPC Asia Shenyang | Nov 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | 10th [Standings](https://icpc.global/regionals/finder/Shenyang-2019/standings) |
+| ICPC Asia Shanghai | Nov 2019 | No Have Just Space This Father | 齐智 陈子谦 唐宇轩 | Gold | 17th |
 | ICPC EC Final | Dec 2019 | Dodo Kindergarten | 陈业元 王之坤 杨栋 | Gold | ???th |
 | ICPC Asia Hong Kong Regional | Nov 2019  | rbqrbq        | 张骏扬 孙路 王彦博   | Silver        | 9th/36 [Standings](https://icpc.global/regionals/finder/Hong-Kong-City-2019/standings) |
 
