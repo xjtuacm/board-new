@@ -3,6 +3,14 @@ title: 历年获奖情况
 date: 2017-01-01 17:16:19
 ---
 
+# 2022
+
+| Contest | Date | Team | Members | Medal | Rank |
+| ------- | ---- | ---- | ------- | ----- | ---- |
+| ICPC香港 | Jan 2023 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 亚军 | 2nd/115 [Standings](https://board.xcpcio.com/icpc/47th/hongkong) |
+| ICPC南京 | Dec 2022 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 第四名 | 4th/417 [Standings](https://board.xcpcio.com/icpc/47th/nanjing) |
+| ICPC EC Final | Mar 2023 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 金牌 | 25th/280 [Standings](https://board.xcpcio.com/icpc/47th/ec-final) |
+
 # 2021
 
 | 赛站     | 中文队名               | 英文队名              | 队员                 | 成绩                       |
@@ -28,7 +36,13 @@ date: 2017-01-01 17:16:19
 
 | Contest | Date | Team | Members | Medal | Rank |
 | ------- | ---- | ---- | ------- | ----- | ---- |
-| CCPC秦皇岛 | Oct 2020 | 速八酒痞 | 孙路 张骏扬 王彦博 | 银牌 | 58th/100 [Standings](https://ccpc.io/post/221) |
+| ICPC上海 | Dec 2020 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 冠军 | 1st/634 [Standings](https://board.xcpcio.com/icpc/2020/shanghai) |
+| CCPC秦皇岛 | Oct 2020 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 亚军 | 2rd/243 [Standings](https://ccpc.io/post/221) |
+| CCPC Final | May 2021 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 季军 | school rk 3rd [Standings](https://board.xcpcio.com/ccpc/2020/final) |
+| CCPC威海 | Oct 2020 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 第四名 | 4th/267 [Standings](https://board.xcpcio.com/ccpc/2020/weihai) |
+| ICPC EC Final | Dec 2021 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 金牌 | 17th/289 [Standings](https://board.xcpcio.com/icpc/2020/ec-final) |
+| ICPC南京 | Apr 2020 | 渡渡鸟幼儿园 | 陈业元 王之坤 杨栋 | 金牌 | 20th/546 [Standings](https://board.xcpcio.com/icpc/2020/nanjing) |
+| CCPC秦皇岛 | Oct 2020 | 速八酒痞 | 孙路 张骏扬 王彦博 | 银牌 | 58th/243 [Standings](https://ccpc.io/post/221) |
 
 # 2019
 
